@@ -35,4 +35,4 @@ Utilizei as tecnologias mais modernas do mercado para garantir um produto final 
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/brunovini22/nome-do-repositorio.git](https://github.com/brunovini22/nome-do-repositorio.git)
+   git clone [https://github.com/brunovini22/Pizzaria-Demonstrativa.git](https://github.com/brunovini22/Pizzaria-Demonstrativa.git)
