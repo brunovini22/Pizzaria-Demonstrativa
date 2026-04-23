@@ -1,73 +1,38 @@
-# Welcome to your Lovable project
+# 🍕 Bella Fornace | Cardápio Digital Inteligente
 
-## Project info
+<p align="center">
+  <img src="https://img.shields.io/badge/Business-Pizzaria-red?style=for-the-badge" alt="Nicho">
+  <img src="https://img.shields.io/badge/Tech-React_TS-blue?style=for-the-badge" alt="Tech">
+  <img src="https://img.shields.io/badge/Agency-MB_Infinity-black?style=for-the-badge" alt="Agency">
+</p>
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+### 📋 O Projeto
+O **Bella Fornace** é um cardápio digital de alta performance desenvolvido para pizzarias que buscam modernizar o atendimento e facilitar a escolha do cliente. Este projeto foca em uma interface visual atraente e navegação fluida.
 
-## How can I edit this code?
+Este é um projeto demonstrativo do portfólio da **MB Infinity Digital**, focado em soluções práticas para o comércio local.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+### 🚀 Stack Técnica
+O projeto foi construído utilizando tecnologias de ponta para garantir velocidade e estabilidade:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- **Frontend:** React + TypeScript (Segurança e tipagem).
+- **Estilização:** Tailwind CSS + Shadcn/UI (Design moderno e responsivo).
+- **Build System:** Vite + Bun (Performance máxima no desenvolvimento).
+- **Icons:** Lucide React.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+### 🍕 Funcionalidades
+* **Menu Interativo:** Navegação simples entre categorias de pizzas.
+- **Mobile First:** Totalmente otimizado para celulares.
+- **Performance:** Carregamento instantâneo de imagens e componentes.
+- **Clean Code:** Estrutura de pastas organizada seguindo padrões de mercado.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🛠️ Como rodar o projeto
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+1. **Instale as dependências (usando Bun):**
+   ```bash
+   bun install
