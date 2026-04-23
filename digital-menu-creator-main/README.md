@@ -1,38 +1,38 @@
 # 🍕 Bella Fornace | Cardápio Digital Inteligente
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Business-Pizzaria-red?style=for-the-badge" alt="Nicho">
-  <img src="https://img.shields.io/badge/Tech-React_TS-blue?style=for-the-badge" alt="Tech">
-  <img src="https://img.shields.io/badge/Agency-MB_Infinity-black?style=for-the-badge" alt="Agency">
+  <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Dev-Bruno_Vinicius-blue?style=for-the-badge" alt="Desenvolvedor">
+  <img src="https://img.shields.io/badge/Stack-React_TS-orange?style=for-the-badge" alt="Stack">
 </p>
 
-### 📋 O Projeto
-O **Bella Fornace** é um cardápio digital de alta performance desenvolvido para pizzarias que buscam modernizar o atendimento e facilitar a escolha do cliente. Este projeto foca em uma interface visual atraente e navegação fluida.
+### 📋 Sobre o Projeto
+O **Bella Fornace** é um cardápio digital de alta performance desenvolvido para modernizar a experiência de pedidos em pizzarias. O foco principal foi criar uma interface leve, intuitiva e totalmente responsiva, garantindo que o cliente tenha uma experiência fluida desde o primeiro clique.
 
-Este é um projeto demonstrativo do portfólio da **MB Infinity Digital**, focado em soluções práticas para o comércio local.
+Este projeto faz parte do meu portfólio pessoal de soluções personalizadas para o setor comercial.
 
 ---
 
 ### 🚀 Stack Técnica
-O projeto foi construído utilizando tecnologias de ponta para garantir velocidade e estabilidade:
+Utilizei as tecnologias mais modernas do mercado para garantir um produto final rápido e de fácil manutenção:
 
-- **Frontend:** React + TypeScript (Segurança e tipagem).
-- **Estilização:** Tailwind CSS + Shadcn/UI (Design moderno e responsivo).
-- **Build System:** Vite + Bun (Performance máxima no desenvolvimento).
-- **Icons:** Lucide React.
-
----
-
-### 🍕 Funcionalidades
-* **Menu Interativo:** Navegação simples entre categorias de pizzas.
-- **Mobile First:** Totalmente otimizado para celulares.
-- **Performance:** Carregamento instantâneo de imagens e componentes.
-- **Clean Code:** Estrutura de pastas organizada seguindo padrões de mercado.
+- **Linguagem:** TypeScript (Código tipado e mais seguro).
+- **Frontend:** React + Vite (Velocidade de renderização).
+- **Estilização:** Tailwind CSS + Shadcn/UI (Design limpo e profissional).
+- **Gerenciador de Pacotes:** Bun (Instalação e execução de alta performance).
 
 ---
 
-### 🛠️ Como rodar o projeto
+### 🍕 Principais Funcionalidades
+* **Interface Dinâmica:** Navegação rápida entre sabores e categorias.
+- **Otimização Mobile:** Pensado especificamente para o uso em smartphones.
+- **Foco em Conversão:** Layout planejado para facilitar a escolha dos itens.
+- **Arquitetura Limpa:** Código organizado para facilitar futuras integrações com sistemas de pagamento ou WhatsApp.
 
-1. **Instale as dependências (usando Bun):**
+---
+
+### 🛠️ Como rodar o projeto localmente
+
+1. **Clone o repositório:**
    ```bash
-   bun install
+   git clone [https://github.com/brunovini22/nome-do-repositorio.git](https://github.com/brunovini22/nome-do-repositorio.git)
